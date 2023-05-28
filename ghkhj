@@ -1,0 +1,7 @@
+echo "# srdhsgsdgdfgdfg" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/oppp5203848/srdhsgsdgdfgdfg.git
+ git push - 复制代码你起源主要
